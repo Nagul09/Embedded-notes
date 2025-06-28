@@ -29,31 +29,31 @@
 - these are capable of running instructions and executing
 - we can also call it as MCU.
 - the typical micro controllers consists of processor core volatile and non-volatile memory.
- ### micro controller also include
-- a processor that runs instructions
-- memory to store programs and data.
-- input/output ports to connect with buttons,sensors,screens,etc.
-- communication ports(to connect with other devices).
+ ### Micro Controller also include
+- A processor that runs instructions
+- Memory to store programs and data.
+- Input/output ports to connect with buttons,sensors,screens,etc.
+- Communication ports(to connect with other devices).
 ## USES OF MICRO CONTROLLER IN EMBEDDED SYSTEMS 
 1. Security systems
-2. laser printers
-3. automation system
-4. robotics.
+2. Laser printers
+3. Automation system
+4. Robotics.
 # MICRO-PROCESSORS
 - A micro processor is a programmable device that takes in input,performs some arithemetic and logical operations over it.
 - A central processing unit(CPU) on a single integrated circuit(IC) chip.
-- it is measaured in megahertz(MHz) or gigahertz(GHz)
+- It is measaured in megahertz(MHz) or gigahertz(GHz)
 ### Basic terms used in the microprocessor.
 1. **Instruction set:** instructionn set is a group of instructions in the microprocesses which can be executed. it is the interface between hardware and software.
 2. **Bus:** busses are used to carry data,address and control information within a microprocessor.these are three types of busses which are data bus,address bus , control bus.
 3. **IPC(instruction per cycle):** it is measured as the number of instructions that a cpu can execute in a single clock cycle.
 4. **clock speed**: it refers to the number of operations can perform per second.
 5. **data types:** it supports various formats such as binary,ASCII,signed bits and unsigned bits.
-## application of microprocessor
-**computer**: the microprocessor are the cpus in the computers.
-**embedded system**: it is utilized as the main processing block in the embedded systems such as washing machines,microwaves and other equipments.
-**industrial automation**: it can be used to control industrial machinery and equipments.
-## uses of micro controller in embedded systems
+## Application of Microprocessor
+- **computer**: the microprocessor are the cpus in the computers.
+- **embedded system**: it is utilized as the main processing block in the embedded systems such as washing            machines,microwaves and other equipments.
+- **industrial automation**: it can be used to control industrial machinery and equipments.
+## Uses of Micro Controller in Embedded systems
 1. Industrial automation: microprocessor control robots,assembly lines and other automated process in a factories, ensuring efficiency and precision.
 2. home appliances: from the washing machines and refrigerators to microwaves ovens and smart thermostats,microprocessors manage the functionality and user interface of everyday house hold devices
 3. automotive systems: modern vehicles rely heavily on microprocessors for rnginr management,anti lock braking systems(ABS),air bags, infotainment system and more
