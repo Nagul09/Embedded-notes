@@ -10,3 +10,4 @@
 | These are running at less than <100MHz | Microproceesor runs at above 1GHz to 6GHz|
 
 
+
